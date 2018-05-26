@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.walmart.com/browse/jewelry/promise-rings/3891_540912_1228412");
+header("Location: http://www.saturdayeveningpost.com/2010/06/08/history/post-perspective/common-wealth-oil.html");
 die();
 ?>
